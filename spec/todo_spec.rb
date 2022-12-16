@@ -28,6 +28,5 @@ RSpec.describe Todo do
                 expect{todo.add("")}.to raise_error "Please enter a task"
             end
         end
-
     end
 end

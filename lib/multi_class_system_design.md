@@ -234,4 +234,5 @@ todo = Todo.new
 todo.add = Todo.new("wash dishes", "tidy room")
 diary_entry_1.todo => ["wash dishes", "tidy room"]
 
+
 ```
